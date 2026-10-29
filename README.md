@@ -38,7 +38,6 @@
 5. แสดงผลบน Dashboard และจัดเก็บหลักฐาน
 
 ## ตัวอย่างโค้ด
-
 ดูตัวอย่างการทำงานของ AI Detection, API และการแจ้งเตือนได้ที่ [docs/code-examples.md](docs/code-examples.md)
 
 ## ขอบเขตของ Repository นี้
@@ -58,3 +57,14 @@ Repository นี้จัดทำขึ้นสำหรับนำเสน
 3. นาย พงศกร หัดโนนตุ่น
 4. นาย ภูดิศ สุนประสพ
 5. นาย กัษณ ศรีฐานสุขะกุล
+
+## ตัวอย่างการ Detect
+
+fire and smoke detected
+
+<img width="442" height="247" alt="Screenshot 2026-10-29 124031" src="https://github.com/user-attachments/assets/f9edd799-ab62-4b53-9382-6877f5103b1e" />
+
+
+fall detetcted
+
+<img width="444" height="210" alt="Screenshot 2026-10-29 124633" src="https://github.com/user-attachments/assets/ba4c5219-d426-4153-8f9d-a8044a9850f8" />
